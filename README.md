@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ankesh Raut</h1>
 <h3 align="center">A passionate Data Science Engineer from India</h3>
 
-<img align="right" alt="coding" width "120" src="
+<img align="right" alt="coding" width="200" src="![image](https://github.com/ankeshraut/ankeshraut/assets/99404965/5b0cad3d-9d3c-497e-bd6b-f19389d99e6c)
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankeshraut&label=Profile%20views&color=0e75b6&style=flat" alt="ankeshraut" /> </p>
